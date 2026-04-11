@@ -62,8 +62,8 @@ Install the required Python-MySQL connector: mysql-connector-python 9.6.0
   ```bash
 db_connect.py
 host="localhost",
-user="your_username",
-password="your_password",
+user="username",
+password="password",
 database="library_db"
 
   ```
